@@ -1,0 +1,242 @@
+[
+  {
+    "product_id": 1,
+    "product_name": "Product_1",
+    "product_category": "Desserts",
+    "brand": "Brand_2",
+    "price": 377,
+    "cost_price": 198
+  },
+  {
+    "product_id": 2,
+    "product_name": "Product_2",
+    "product_category": "Fast Food",
+    "brand": "Brand_5",
+    "price": 164,
+    "cost_price": 87
+  },
+  {
+    "product_id": 3,
+    "product_name": "Product_3",
+    "product_category": "Fast Food",
+    "brand": "Brand_1",
+    "price": 94,
+    "cost_price": 60
+  },
+  {
+    "product_id": 4,
+    "product_name": "Product_4",
+    "product_category": "Fast Food",
+    "brand": "Brand_5",
+    "price": 97,
+    "cost_price": 53
+  },
+  {
+    "product_id": 5,
+    "product_name": "Product_5",
+    "product_category": "Snacks",
+    "brand": "Brand_2",
+    "price": 151,
+    "cost_price": 102
+  },
+  {
+    "product_id": 6,
+    "product_name": "Product_6",
+    "product_category": "Fast Food",
+    "brand": "Brand_2",
+    "price": 279,
+    "cost_price": 180
+  },
+  {
+    "product_id": 7,
+    "product_name": "Product_7",
+    "product_category": "Desserts",
+    "brand": "Brand_2",
+    "price": 407,
+    "cost_price": 246
+  },
+  {
+    "product_id": 8,
+    "product_name": "Product_8",
+    "product_category": "Desserts",
+    "brand": "Brand_1",
+    "price": 160,
+    "cost_price": 118
+  },
+  {
+    "product_id": 9,
+    "product_name": "Product_9",
+    "product_category": "Desserts",
+    "brand": "Brand_3",
+    "price": 97,
+    "cost_price": 57
+  },
+  {
+    "product_id": 10,
+    "product_name": "Product_10",
+    "product_category": "Fast Food",
+    "brand": "Brand_4",
+    "price": 359,
+    "cost_price": 203
+  },
+  {
+    "product_id": 11,
+    "product_name": "Product_11",
+    "product_category": "Snacks",
+    "brand": "Brand_1",
+    "price": 324,
+    "cost_price": 172
+  },
+  {
+    "product_id": 12,
+    "product_name": "Product_12",
+    "product_category": "Desserts",
+    "brand": "Brand_5",
+    "price": 332,
+    "cost_price": 190
+  },
+  {
+    "product_id": 13,
+    "product_name": "Product_13",
+    "product_category": "Fast Food",
+    "brand": "Brand_2",
+    "price": 148,
+    "cost_price": 100
+  },
+  {
+    "product_id": 14,
+    "product_name": "Product_14",
+    "product_category": "Fast Food",
+    "brand": "Brand_2",
+    "price": 445,
+    "cost_price": 254
+  },
+  {
+    "product_id": 15,
+    "product_name": "Product_15",
+    "product_category": "Desserts",
+    "brand": "Brand_4",
+    "price": 493,
+    "cost_price": 258
+  },
+  {
+    "product_id": 16,
+    "product_name": "Product_16",
+    "product_category": "Beverages",
+    "brand": "Brand_3",
+    "price": 375,
+    "cost_price": 265
+  },
+  {
+    "product_id": 17,
+    "product_name": "Product_17",
+    "product_category": "Desserts",
+    "brand": "Brand_1",
+    "price": 231,
+    "cost_price": 127
+  },
+  {
+    "product_id": 18,
+    "product_name": "Product_18",
+    "product_category": "Beverages",
+    "brand": "Brand_2",
+    "price": 361,
+    "cost_price": 237
+  },
+  {
+    "product_id": 19,
+    "product_name": "Product_19",
+    "product_category": "Beverages",
+    "brand": "Brand_3",
+    "price": 286,
+    "cost_price": 170
+  },
+  {
+    "product_id": 20,
+    "product_name": "Product_20",
+    "product_category": "Fast Food",
+    "brand": "Brand_2",
+    "price": 481,
+    "cost_price": 332
+  },
+  {
+    "product_id": 21,
+    "product_name": "Product_21",
+    "product_category": "Desserts",
+    "brand": "Brand_4",
+    "price": 470,
+    "cost_price": 238
+  },
+  {
+    "product_id": 22,
+    "product_name": "Product_22",
+    "product_category": "Desserts",
+    "brand": "Brand_2",
+    "price": 187,
+    "cost_price": 96
+  },
+  {
+    "product_id": 23,
+    "product_name": "Product_23",
+    "product_category": "Snacks",
+    "brand": "Brand_2",
+    "price": 385,
+    "cost_price": 240
+  },
+  {
+    "product_id": 24,
+    "product_name": "Product_24",
+    "product_category": "Desserts",
+    "brand": "Brand_5",
+    "price": 185,
+    "cost_price": 98
+  },
+  {
+    "product_id": 25,
+    "product_name": "Product_25",
+    "product_category": "Snacks",
+    "brand": "Brand_3",
+    "price": 269,
+    "cost_price": 194
+  },
+  {
+    "product_id": 26,
+    "product_name": "Product_26",
+    "product_category": "Beverages",
+    "brand": "Brand_5",
+    "price": 162,
+    "cost_price": 121
+  },
+  {
+    "product_id": 27,
+    "product_name": "Product_27",
+    "product_category": "Fast Food",
+    "brand": "Brand_1",
+    "price": 302,
+    "cost_price": 157
+  },
+  {
+    "product_id": 28,
+    "product_name": "Product_28",
+    "product_category": "Snacks",
+    "brand": "Brand_5",
+    "price": 128,
+    "cost_price": 84
+  },
+  {
+    "product_id": 29,
+    "product_name": "Product_29",
+    "product_category": "Snacks",
+    "brand": "Brand_5",
+    "price": 82,
+    "cost_price": 48
+  },
+  {
+    "product_id": 30,
+    "product_name": "Product_30",
+    "product_category": "Fast Food",
+    "brand": "Brand_1",
+    "price": 178,
+    "cost_price": 132
+  }
+]
